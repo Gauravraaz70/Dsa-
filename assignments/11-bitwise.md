@@ -4,8 +4,8 @@
 
 ## Easy
 - [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Single Number](https://leetcode.com/problems/single-number/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- [Single Number](https://leetcode.com/problems/single-number/) done 
+- [Reverse Bits](https://leetcode.com/problems/reverse-bits/) half done
 - [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
